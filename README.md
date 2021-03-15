@@ -1,4 +1,4 @@
-# Loan-And-Product-API
+# Authorization-API
 ## Einleitung
 Mittels dieser API erhalten Sie, basierend auf den von Prohyp zur Verfügung gestellten Authorisierungsdaten, einen Access Token für weitere Schnittstellenaufrufe.
 ## Möglichkeiten zur Nutzung
