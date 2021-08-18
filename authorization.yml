@@ -9,7 +9,7 @@ info:
   contact:
     name: Prohyp GmbH / Accountmanagement
     url: http://www.prohyp.de
-    email: AM@prohyp.de
+    email: am@prohyp.de
 servers:
   - url: https://api.prohyp.de/authorization/v1
     description: Production
